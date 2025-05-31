@@ -1,25 +1,28 @@
-# 👋 Hi, I’m Sonalee Bhattacharyya. 
-- 👀 I’m a university lecturer and lifelong learner. I have a strong foundation in teaching, mathematics, and educational research. I am not applying those skills to solve real-world problems using data.
-## 🎯 What I'm Working On
-- Completing a **Master’s in Data Science**
-- Building a **portfolio of projects** focused on education, public data, and personal finance
-- Exploring **AI in education**, including natural language processing for assessment and feedback
+# 👋 Hi, I'm Sonalee Bhattacharyya
 
-## 🛠️ Skills & Tools
+I'm a university lecturer with a strong background in teaching mathematics and a growing passion for **data science**. While continuing my work in higher education, I’m actively building skills and projects in data analysis, statistics, and machine learning.
+
+## 🔍 What I’m Focused On
+- Pursuing a **Master’s in Data Science**
+- Building a portfolio of **real-world projects** using Python, SQL, and visualization tools
+- Exploring applications of **AI and NLP in education**
+
+## 🛠️ Technical Skills
 - Python (pandas, matplotlib, scikit-learn)
 - SQL
-- R (basic proficiency)
-- Excel, Google Sheets
 - Jupyter Notebooks
+- R (basic)
 - Git & GitHub
+- Excel, Google Sheets
 
-## 📊 Current Projects
-- **Student Success Dashboard** – exploring how attendance, grades, and engagement predict outcomes
-- **Savings Plan Simulator** – visualizing the impact of compounding interest and regular contributions
-- **Set Theory + Venn Diagrams Summer Camp** – a fun math curriculum for middle schoolers
+## 📁 Projects (coming soon)
+- **Student Success Dashboard** – analyzing patterns in academic performance and engagement  
+- **Savings Plan Simulator** – modeling compound interest and financial planning with Python  
+- **Set Theory & Venn Diagrams Curriculum** – a hands-on math enrichment program for middle schoolers  
 
-## 🌐 Connect With Me
+## 🎯 Why Data Science?
+I love teaching people how to make sense of complex ideas. Now, I’m extending that work into the world of data — using evidence and visual storytelling to support smart, ethical decision-making in education, finance, and beyond.
+
+## 🌐 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/sonaleebhattacharyya)
-- [Personal Website or Portfolio] (coming soon!)
-
-Thanks for visiting my GitHub — feel free to check out my projects or reach out to connect!
+- Personal portfolio site coming soon
